@@ -1,0 +1,10 @@
+development:
+  adapter: async
+
+test:
+  adapter: async
+
+production:
+  adapter: redis
+  url: redis://redistogo:fbede66f5dead3641327d16fbffc4a96@tarpon.redistogo.com:9788/
+  channel_prefix: action_cable_signaling_server_production
