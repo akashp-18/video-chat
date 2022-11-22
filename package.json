@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "description": "<div align=\"center\"> <img src=\"https://emojipedia-us.s3.amazonaws.com/thumbs/240/apple/118/handshake_1f91d.png\" /> <h1>Action Cable Signaling Server</h1>",
   "version": "1.0.0",
